@@ -1,0 +1,14 @@
+/**
+ *
+ * Plugin Name: Pray Times
+ * Author: Ibrahim Mohamed Abotaleb
+ * Version: 1.0
+ * Author URI: http://mrkindy.com/
+ */
+.prayer{
+    background: url("../images/masjid.png") no-repeat left bottom;
+}
+.p-prayer{
+	font-size: 14px;
+	margin: 0;
+}
