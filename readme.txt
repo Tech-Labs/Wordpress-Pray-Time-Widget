@@ -13,11 +13,7 @@ Pray Times is widget to calculate prayer times for any location around the world
 
 
 = Features =
-* Custom message
-* Message delay in seconds
-* Display Close Button or not
-* Close Message Automatically after few seconds
-* 3 Layouts
+
 
 == Installation ==
 Upload the Pray Time plugin to your blog, Activate it, then configure your widget from theme wigets.
