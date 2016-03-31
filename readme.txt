@@ -1,6 +1,6 @@
 === Pray Time ===
 Contributors: mrkindy
-Tags: Pray Time,Muslim,Muslim Pray Time
+Tags: Pray Time,Prayer Times,Muslim,Muslim Pray Time
 Requires at least: 3.2
 Tested up to: 4.4.2
 License: GPLv2 or later
@@ -12,7 +12,8 @@ Pray Times is widget to calculate prayer times for any location around the world
 Pray Times is widget to calculate prayer times for any location around the world, based on a variety of calculation methods currently used in Muslim communities.
 
 
-= Features =
+= Links =
+* [Visit my site](https://mrkindy.com).
 
 
 == Installation ==
